@@ -61,8 +61,18 @@ Credit-Card-Fraud-Detection/
    ```
 
 4. **Download the dataset:**
-   - Download `creditcard_2023.csv` and place it in the project root directory
-   - The script uses a sample of 10,000 rows for faster processing
+   
+   **Option 1: Using Git LFS (if available)**
+   ```bash
+   git lfs pull
+   ```
+   
+   **Option 2: Manual Download**
+   - Download the credit card fraud dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+   - Rename the file to `creditcard_2023.csv` and place it in the project root directory
+   - The script uses a sample of 10,000 rows for faster processing during development
+   
+   **Note:** The dataset file is large (~150MB) and is tracked with Git LFS to avoid GitHub's file size limits.
 
 ## How to Run
 1. **Run the main analysis:**
