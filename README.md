@@ -99,16 +99,16 @@ Credit-Card-Fraud-Detection/
 The script outputs comprehensive model performance metrics and several visualizations to help understand the data and the effectiveness of the fraud detection model:
 
 ### Feature Importances
-![Feature Importances](images/feature_importances.png)
+![Bar Graph](images/Bar-Graph.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Confusion-Matrix.png)
 
 ### Feature Correlation Heatmap
-![Feature Correlation Heatmap](images/correlation_heatmap.png)
+![Feature Correlation Heatmap](images/Heatmap.png)
 
 ### ROC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/ROC_AUC.png)
 
 ## Key Findings
 - **High Performance:** The Random Forest model achieves excellent performance on fraud detection
@@ -144,12 +144,9 @@ Run tests with: `python tests/test_fraud_detection.py`
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
-- **Author:** [Your Name]
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **Author:** Jaydon Moses
+- **Email:** jaydon.10.moses@gmail.com
+- **LinkedIn:** [\[My LinkedIn Profile\]](https://www.linkedin.com/in/jaydonmoses/)
+- **GitHub:** [\[My Github Profile\]](https://github.com/jaydonmoses)
 
